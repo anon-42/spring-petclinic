@@ -236,16 +236,7 @@
       </snapshots>
     </repository>
   </repositories>
-<repository>
-  <id>dev-azure-com-amal0009-amal0009</id>
-  <url>https://pkgs.dev.azure.com/amal0009/_packaging/amal0009/maven/v1</url>
-  <releases>
-    <enabled>true</enabled>
-  </releases>
-  <snapshots>
-    <enabled>true</enabled>
-  </snapshots>
-</repository>
+
   <pluginRepositories>
     <pluginRepository>
       <id>spring-snapshots</id>
